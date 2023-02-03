@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>순수동물병원 테스트</title>
+    <title>레드터치 테스트</title>
     <meta name='author' content='br' />
-    <meta name='keywords' content='순수동물병원' />
-    <meta name='description' content='순수동물병원' />
+    <meta name='keywords' content='레드터치' />
+    <meta name='description' content='레드터치' />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name='viewport' content='width=1180,user-scalable=yes, target-densitydpi=device-dpi' />
 
